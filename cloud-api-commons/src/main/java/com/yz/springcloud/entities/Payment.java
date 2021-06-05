@@ -17,7 +17,6 @@ import java.io.Serializable;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Builder
 public class Payment implements Serializable {
     private Integer id ;
 
