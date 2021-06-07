@@ -1,0 +1,33 @@
+Index: springcloud-config/config-test.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- springcloud-config/config-test.yml	(date 1623039349501)
++++ springcloud-config/config-test.yml	(date 1623039349501)
+@@ -0,0 +1,2 @@
++config:
++  info: "master branch,springcloud-config/config-test.yml version=1"
+\ No newline at end of file
+Index: springcloud-config/config-dev.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- springcloud-config/config-dev.yml	(date 1623039318228)
++++ springcloud-config/config-dev.yml	(date 1623039318228)
+@@ -0,0 +1,2 @@
++config:
++  info: "master branch,springcloud-config/config-dev.yml version=7"
+\ No newline at end of file
+Index: springcloud-config/config-prod.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- springcloud-config/config-prod.yml	(date 1623039338409)
++++ springcloud-config/config-prod.yml	(date 1623039338409)
+@@ -0,0 +1,2 @@
++config:
++  info: "master branch,springcloud-config/config-prod.yml version=1"
+\ No newline at end of file
